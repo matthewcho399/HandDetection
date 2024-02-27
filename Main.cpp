@@ -23,7 +23,7 @@ struct Hand {
 	int type = -1;
 };
 
-string const video_name_path = "hand.mp4";
+string const video_name_path = "/assets/hand.mp4";
 int const skip_frames = 3;
 Scalar const box_color = Scalar{ 0, 0, 255 };
 

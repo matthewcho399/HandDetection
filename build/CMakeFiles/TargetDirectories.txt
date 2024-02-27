@@ -1,0 +1,3 @@
+/Users/matthew/Desktop/Hand-Detection/build/CMakeFiles/MyProject.dir
+/Users/matthew/Desktop/Hand-Detection/build/CMakeFiles/edit_cache.dir
+/Users/matthew/Desktop/Hand-Detection/build/CMakeFiles/rebuild_cache.dir

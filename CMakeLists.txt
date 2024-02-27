@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(HandDetection)
+find_package(OpenCV REQUIRED)
+add_executable(HandDetection Main.cpp)
+target_link_libraries(HandDetection ${OpenCV_LIBS})
